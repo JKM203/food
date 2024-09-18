@@ -4,8 +4,8 @@ import order_icon from './order_icon.png'
 import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
-
-export const url = 'http://localhost:4000'
+//http://localhost:4000
+export const url = 'https://food-backend-rx4i.onrender.com'
 export const currency = '₹'
 
 export const assets ={
